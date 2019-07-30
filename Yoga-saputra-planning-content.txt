@@ -3,5 +3,7 @@ PLANNING CONTENT :
 - Bootstrap
 - React Js
 - JavaScript
+  * ES6
+  * Frameworks
 - php
 
