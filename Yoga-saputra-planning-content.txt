@@ -6,4 +6,5 @@ PLANNING CONTENT :
   * ES6
   * Frameworks
 - php
+- My-SQL
 
