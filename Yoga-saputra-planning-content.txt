@@ -4,7 +4,10 @@ PLANNING CONTENT :
 - React Js
 - JavaScript
   * ES6
-  * Frameworks
-- php
+  * Frameworks javascript
+    ^ Vue
+- PHP Frameworks
+  ^ Laravel
 - My-SQL
+- Python
 
