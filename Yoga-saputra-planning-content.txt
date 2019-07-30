@@ -3,10 +3,11 @@ PLANNING CONTENT :
 - Bootstrap
 - JavaScript
   * ES6
-  * Frameworks Javascript
-    ^ Angular
+  * Frameworks javascript
+    ^ Vue
     ^ React
 - PHP Frameworks
   ^ Laravel
 - My-SQL
+- Python
 
